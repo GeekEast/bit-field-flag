@@ -34,5 +34,7 @@ console.log(checkNPosition(10,4)) // result: 1
 
 ## Reference
 [Binary to Decimal in Node.js](https://stackoverflow.com/questions/10258828/how-to-convert-binary-string-to-decimal)
+
 [Bit Fields: How it stores the values](https://github.com/pboling/flag_shih_tzu#bit-fields-how-it-stores-the-values)
+
 [Extracting bits from flag words](https://en.wikipedia.org/wiki/Bit_field#Extracting_bits_from_flag_words)
