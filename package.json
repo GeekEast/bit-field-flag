@@ -1,0 +1,16 @@
+{
+  "name": "bit-field",
+  "version": "0.1.0",
+  "description": "The bit field calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bit",
+    "field",
+    "flags"
+  ],
+  "author": "Xiang Tan",
+  "license": "ISC"
+}
