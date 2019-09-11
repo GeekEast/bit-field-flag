@@ -12,5 +12,13 @@
     "flags"
   ],
   "author": "Xiang Tan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekEast/bit-field-flag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeekEast/bit-field-flag/issues"
+  },
+  "homepage": "https://github.com/GeekEast/bit-field-flag#readme"
 }
